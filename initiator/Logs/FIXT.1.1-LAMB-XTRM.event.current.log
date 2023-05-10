@@ -1,0 +1,46 @@
+20230504-11:08:47.221786000 : Created session
+20230504-11:08:47.222159000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230504-11:08:47.342095000 : Initiated logon request
+20230504-11:08:47.342187000 : Socket Error: Connection reset by peer.
+20230504-11:08:47.342205000 : Disconnecting
+20230504-11:09:15.888356000 : Created session
+20230504-11:09:15.888709000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230504-11:09:16.009154000 : Initiated logon request
+20230504-11:09:16.009224000 : Socket Error: Connection reset by peer.
+20230504-11:09:16.009238000 : Disconnecting
+20230505-10:47:50.704028000 : Created session
+20230505-10:47:50.704438000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230505-10:47:50.835275000 : Initiated logon request
+20230505-10:47:53.980634000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230505-10:47:53.981287000 : Received logon response
+20230505-10:48:06.999421000 : Message 2 Rejected: Tag appears more than once:447
+20230505-10:48:29.854168000 : Sent test request TEST
+20230505-14:40:44.739312000 : Created session
+20230505-14:40:44.739783000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230505-14:40:44.870538000 : Initiated logon request
+20230505-14:40:48.018470000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230505-14:40:48.019149000 : Received logon response
+20230505-14:40:51.312638000 : Message 2 Rejected: Tag appears more than once:447
+20230505-15:28:28.163698000 : Created session
+20230505-15:28:28.164128000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230505-15:28:28.297591000 : Initiated logon request
+20230505-15:28:31.445654000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230505-15:28:31.445979000 : Received logon response
+20230505-15:28:33.980637000 : Message 2 Rejected: Tag appears more than once:447
+20230507-19:07:47.363797000 : Created session
+20230507-19:07:47.364251000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230507-19:07:47.494870000 : Initiated logon request
+20230507-19:07:47.494972000 : Socket Error: Connection reset by peer.
+20230507-19:07:47.494997000 : Disconnecting
+20230508-13:04:11.847456000 : Created session
+20230508-13:04:11.848021000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230508-13:04:11.974963000 : Initiated logon request
+20230508-13:04:15.117422000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230508-13:04:15.117982000 : Received logon response
+20230508-13:04:19.185616000 : Message 2 Rejected: Tag appears more than once:447
+20230510-11:19:13.688133000 : Created session
+20230510-11:19:13.688605000 : Connecting to 196.29.44.177 on port 18104 (Source :0)
+20230510-11:19:14.828315000 : Initiated logon request
+20230510-11:19:17.485053000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230510-11:19:17.485755000 : Received logon response
+20230510-11:19:23.752316000 : Message 2 Rejected: Tag appears more than once:447

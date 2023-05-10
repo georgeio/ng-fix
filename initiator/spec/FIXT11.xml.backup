@@ -76,8 +76,6 @@
       <field name='TestMessageIndicator' required='N'/>
       <field name='Username' required='N'/>
       <field name='Password' required='N'/>
-      <field name='NewPassword' required='N'/>
-      <field name='Text' required='N'/>
       <field name='DefaultApplVerID' required='Y'/>
       <component name='MsgTypeGrp' required='N'/>
     </message>
@@ -208,7 +206,6 @@
       <value enum='BN' description='EXECUTION_ACKNOWLEDGEMENT'/>
       <value enum='BO' description='CONTRARY_INTENTION_REPORT'/>
       <value enum='BP' description='SECURITY_DEFINITION_UPDATE_REPORT'/>
-      <value enum='BS' description='TRADING_SESSION_LIST_UPDATE_REPORT'/>
     </field>
     <field name='NewSeqNo' number='36' type='SEQNUM'/>
     <field name='PossDupFlag' number='43' type='BOOLEAN'/>
@@ -296,7 +293,6 @@
     <field name='HopSendingTime' number='629' type='UTCTIMESTAMP'/>
     <field name='HopRefID' number='630' type='SEQNUM'/>
     <field name='NextExpectedMsgSeqNum' number='789' type='SEQNUM'/>
-    <field name='NewPassword' number='925' type='STRING'/>
     <field name='ApplVerID' number='1128' type='STRING'>
       <value description='FIX27' enum='0'/>
       <value description='FIX30' enum='1'/>
